@@ -1,0 +1,30 @@
+=== Plugin Name ===
+Contributors: Patrick Shyu
+Donate link: http://wordpress.tinyuploads.com/
+Tags: photos, sharing, uploader, upload, pictures, images, asset manager
+Requires at least: 2.0
+Tested up to: 3.0.1
+Stable tag: 1.0
+
+TinyUploads is a fast and simple way to get images online.  Automatically resize and upload pictures for your blog.
+
+== Description ==
+
+TinyUploads is a fast and simple way to get images online.  Automatically resize and upload pictures for your blog.  Choose from 3 different thumbnail sizes, write captions, re-order images, and more.  
+
+For more information, see [TinyUploads for WordPress][http://tinyuploads.com/].
+
+== Installation ==
+
+1. Upload "tinyuploads.php" to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. /trunk/images/home.jpg
+
+== Changelog ==
+
+= 1.0 =
+* TinyUploads Released
+
